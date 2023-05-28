@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992182450181",
+    "project_id": "aplicativo-de-teste-fire-7400d",
+    "storage_bucket": "aplicativo-de-teste-fire-7400d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992182450181:android:0e8c23df2db22e0c68046c",
+        "android_client_info": {
+          "package_name": "brandao.android.aplicativodetestefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992182450181-b2katsim8qhfnovc99g934e3cnev0255.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqQ-vOjiKUjeZbEiWkYy95MUO3TjEvlpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992182450181-b2katsim8qhfnovc99g934e3cnev0255.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

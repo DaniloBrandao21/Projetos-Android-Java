@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/personNameSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="name"/>
+
+    <EditText
+        android:id="@+id/personAddressSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="address"/>
+
+    <Button
+        android:id="@+id/buttonSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save"/>
+
+
+    <EditText
+        android:id="@+id/idPersonUpdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="id"
+        android:layout_marginTop="15dp"/>
+
+    <EditText
+        android:id="@+id/namePersonUpdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="name"/>
+    <Button
+        android:id="@+id/buttonUpdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update"/>
+
+    <EditText
+        android:id="@+id/idPersonDelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:hint="id"/>
+    <Button
+        android:id="@+id/buttonDelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete"/>
+
+    <ListView
+        android:id="@+id/personList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</LinearLayout>

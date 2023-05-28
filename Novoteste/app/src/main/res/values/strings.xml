@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Novo teste</string>
+    <string name="salvar">Novo projeto para testes</string>
+
+
+    <!--Textos da primeira tela-->
+    <string name="playing">Now Playing</string>
+    <string name="gears">Gears Of War</string>
+    <string name="Kevin">Kevin Riepl</string>
+    <string name="t1">0:08</string>
+    <string name="t2">4:30</string>
+
+    <!--Textos da segunda tela-->
+    <string name="filmes">Filmes</string>
+    <string name="Lancamentos">Lançamentos</string>
+    <string name="play">Play</string>
+    <string name="cine">Cine</string>
+    <string name="text">Filmes, séries, animes e canais de TV</string>
+    <string name="gratis">ONLINE GRáTIS!</string>
+</resources>

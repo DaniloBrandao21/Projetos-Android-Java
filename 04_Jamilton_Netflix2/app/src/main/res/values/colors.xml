@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vermelho">#D61E21</color>
+    <color name="vermelho_escuro">#780000</color>
+    <color name="vermelho_claro">#ff4f4f</color>
+    <color name="app">#FF393939</color>
+    <color name="darker_grey">#A9A9A9</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Youtube</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Home">Home</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="incricoes">Incrições</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="emalta">Em Alta</string>
+</resources>
